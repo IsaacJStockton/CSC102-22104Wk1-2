@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(121, 181, 186, 0.746);
+    font-family: 'sofia', sans-serif;
+}
+
+.button{
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 30px;
+    border-color: rgb(237, 56, 56);
+    border-radius: 20px;
+}
